@@ -1,0 +1,89 @@
+Manufacturer,Model,Variation,Post-Processor,"Work Area
+X           Y          Z",Y,Z,Collet,Units,"Spindle RPM
+Default     Min       Max   ","Spindle RPM
+(Min)","Spindle RPM
+(Max)","Feedrate
+ Default     Min      Max   ","Feedrate
+(Min)","Feedrate
+(Max)"
+Carbide 3D,Nomad 3,,grbl,8,8,3,0.25,Inches,5000,2000,10000,,,
+Carbide 3D,Shapeoko 4,Pro XXL,grbl,33,33,4,0.25,Inches,15000,10000,30000,,,
+Carbide 3D,Shapeoko 4,Pro XL,grbl,33,17.5,4,0.25,Inches,15000,10000,30000,200,1,400
+Carbide 3D,Shapeoko 4,Pro,grbl,17.5,17.5,4,0.25,Inches,15000,10000,30000,200,1,400
+Carbide 3D,Shapeoko 4,XXL,grbl,33,33,4,0.25,Inches,15000,10000,30000,200,1,400
+Carbide 3D,Shapeoko 4,XL,grbl,33,17.5,4,0.25,Inches,15000,10000,30000,200,1,400
+Carbide 3D,Shapeoko 4,,grbl,17.5,17.5,4,0.25,Inches,15000,10000,30000,200,1,400
+Carbide 3D,Shapeoko,HDM,grbl,27,21,5.7,0.25,Inches,12000,8000,24000,200,1,400
+Carbide 3D,Shapeoko 5,Pro 4x4,grbl,48.7,48.7,4,0.25,Inches,15000,10000,30000,200,1,400
+Carbide 3D,Shapeoko 5,Pro 4x2,grbl,48.7,24.53,4,0.25,Inches,15000,10000,30000,200,1,400
+Carbide 3D,Shapeoko 5,Pro 2x2,grbl,24.53,24.53,4,0.25,Inches,15000,10000,30000,,,
+Carbide 3D,Shapeoko 3,,grbl,16,16,3,0.25,Inches,15000,10000,30000,,,
+Onefinity,Original,Machinist,grbl,16.25,16.25,5.25,0.25,Inches,15000,10000,30000,,,
+Onefinity,Original,Woodworker,grbl,32.25,32.25,5.25,0.25,Inches,15000,10000,30000,,,
+Onefinity,Original,Journeyman,grbl,48.25,32.25,5.25,0.25,Inches,15000,10000,30000,,,
+Onefinity,PRO,Woodworker,grbl,32.25,32.25,5.25,0.25,Inches,15000,10000,30000,,,
+Onefinity,PRO,Journeyman,grbl,48.25,32.25,5.25,0.25,Inches,15000,10000,30000,,,
+Onefinity,PRO,Foreman,grbl,48.25,32.25,5.25,0.25,Inches,15000,10000,30000,,,
+Onefinity,Elite,Woodworker,grbl,32.25,32.25,5,0.25,Inches,15000,10000,30000,,,
+Onefinity,Elite,Journeyman,grbl,48.125,32.25,5,0.25,Inches,15000,10000,30000,,,
+Onefinity,Elite,Foreman,grbl,48.0125,48.75,7,0.25,Inches,15000,10000,30000,,,
+Inventables,X-Carve,,grbl,29.5,29.5,4,0.25,Inches,15000,10000,30000,,,
+Inventables,X-Carve Pro,4x4,grbl,48,48,4,0.25,Inches,12000,8000,24000,,,
+Inventables,X-Carve Pro,4x2,grbl,48,24,4,0.25,Inches,12000,8000,24000,,,
+Ooznest,Workbee Z1+,500x500,grbl,270,270,44,0.25,mm,15000,10000,30000,,,
+Ooznest,Workbee Z1+,750x750,grbl,520,520,44,0.25,mm,15000,10000,30000,,,
+Ooznest,Workbee Z1+,750x1000,grbl,520,770,44,0.25,mm,15000,10000,30000,,,
+Ooznest,Workbee Z1+,1000x1000,grbl,770,770,44,0.25,mm,15000,10000,30000,,,
+Ooznest,Workbee Z1+,1000x1500,grbl,770,1270,44,0.25,mm,15000,10000,30000,,,
+Ooznest,Workbee Z1+,1500x1500,grbl,1270,1270,44,0.25,mm,15000,10000,30000,,,
+Avid CNC,Benchtop,2424 2x2,Centroid,26,26,5,0.5,Inches,12000,6000,24000,,,
+Avid CNC,Benchtop,2436 2x3,Centroid,26,37.8,5,0.5,Inches,12000,6000,24000,,,
+Avid CNC,Benchtop,3624 3x2,Centroid,37.6,25.98,5,0.5,Inches,12000,6000,24000,,,
+Avid CNC,Benchtop,3636 3x3,Centroid,37.6,37.6,5,0.5,Inches,12000,6000,24000,,,
+Avid CNC,PRO,4824 4x2,Centroid,49.61,23.98,7,0.5,Inches,12000,1000,24000,,,
+Avid CNC,PRO,4848 4x4,Centroid,49.61,49.57,7,0.5,Inches,12000,1000,24000,,,
+Avid CNC,PRO,4896 4x8,Centroid,49.61,98.78,7,0.5,Inches,12000,1000,24000,,,
+Avid CNC,PRO,6060 5x5,Centroid,61.42,61.38,7,0.5,Inches,12000,1000,24000,,,
+Avid CNC,PRO,60120 5x10,Centroid,61.42,124.37,7,0.5,Inches,12000,1000,24000,,,
+MillRight,Mega V,2,grbl,19,19,5.25,0.25,Inches,15000,10000,30000,,,
+MillRight,Mega V,XL,grbl,35,35,5.25,0.25,Inches,15000,10000,30000,,,
+MillRight,Mega V,XXL,grbl,50,50,5.25,0.25,Inches,15000,10000,30000,,,
+MillRight,Mega V,Full Sheet,grbl,97,50,5.25,0.25,Inches,15000,10000,30000,,,
+MillRight,Mega V,Pro,grbl,19,19,5.5,0.5,Inches,12000,6000,24000,,,
+MillRight,Mega V,Pro XL,grbl,35,35,5.5,0.5,Inches,12000,6000,24000,,,
+MillRight,Power Route,Plus,grbl,25,25,5.5,0.25,Inches,15000,10000,30000,,,
+MillRight,Power Route,Max,grbl,50,50,5.5,0.5,Inches,12000,6000,24000,,,
+MillRight,Carve King,2,grbl,17.25,17.25,4,0.25,Inches,15000,10000,30000,,,
+CNC4ALL,KK1000,S,grbl,800,560,90,0.01,mm,12000,5000,25000,2000,2000,2000
+CNC4ALL,Hobby,900x600,Mach3,900,600,150,,mm,12000,0,24000,4000,4000,4000
+CNC4ALL,Hobby,1200x600,Mach3,1200,600,150,,mm,12000,0,24000,4000,4000,4000
+CNC4ALL,Professional,900x600,Mach3,900,600,150,,mm,12000,0,24000,4000,4000,4000
+CNC4ALL,Professional,1200x600,Mach3,1200,600,150,,mm,12000,0,24000,7000,7000,7000
+CNC4ALL,Professional,1200x1200,Mach3,1200,1200,150,,mm,12000,0,24000,8000,8000,8000
+CNC4ALL,Industry,2500x1300,Mach3,2500,1300,200,,mm,12000,0,24000,20000,20000,20000
+CNC4ALL,Industry,3000x1500,Mach3,3000,1500,200,,mm,12000,0,24000,20000,20000,20000
+CNC4ALL,Industry,3000x2000,Mach3,3000,2000,200,,mm,12000,0,24000,20000,20000,20000
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Axiom,Iconic,4,Axiom_HHC,24,24,3.9,0.25,Inches,12000,8000,24000,,,
+Axiom,Iconic,6,Axiom_HHC,24,36,3.9,0.25,Inches,12000,8000,24000,,,
+Axiom,Iconic,8,Axiom_HHC,24,48,3.9,0.25,Inches,12000,8000,24000,,,
+Axiom,Pro,AR4,Axiom_HHC,24,24,6,0.25,Inches,12000,8000,24000,,,
+Axiom,Pro,AR6,Axiom_HHC,24,36,6,0.25,Inches,12000,8000,24000,,,
+Axiom,Pro,AR8,Axiom_HHC,24,48,6,0.25,Inches,12000,8000,24000,,,
+Axiom,Elite,AR8,Axiom_Elite,24,48,7.4,0.25,Inches,12000,8000,24000,,,
+Axiom,Elite,AR16,Axiom_Elite,48,48,7.4,0.25,Inches,12000,8000,24000,,,
+Axiom,Elite,AR25,Axiom_Elite,60,60,7.4,0.25,Inches,12000,8000,24000,,,
